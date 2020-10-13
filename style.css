@@ -184,6 +184,25 @@ a.social:hover {
   clear: both;
 }
 
+label {
+  color: rgb(199, 234, 70);
+}
+
+legend {
+  color: rgb(199, 234, 70);
+}
+
+#email {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+br {
+  margin: 50px 0;
+  line-height: 20px;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   .flex {
