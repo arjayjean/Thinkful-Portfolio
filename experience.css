@@ -18,7 +18,7 @@ a {
   color: white;
 }
 a:hover {
-  color: #6633ff;
+  color: rgb(199, 234, 70);
 }
 
 /* Section Styles */
@@ -181,6 +181,10 @@ label {
 }
 
 legend {
+  color: rgb(199, 234, 70);
+}
+
+.mail-to {
   color: rgb(199, 234, 70);
 }
 

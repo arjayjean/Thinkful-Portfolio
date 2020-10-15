@@ -211,6 +211,10 @@ legend {
   color: rgb(199, 234, 70);
 }
 
+.mail-to {
+  color: rgb(199, 234, 70);
+}
+
 #email {
   display: flex;
   justify-content: center;
