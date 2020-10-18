@@ -38,6 +38,7 @@ a:hover {
   padding: 10px;
   position: fixed;
   text-align: center;
+  z-index: 2;
 }
 .nav {
   display: flex;
@@ -71,8 +72,11 @@ header {
   background: url("images/IMG_0013.jpg") no-repeat center;
   background-size: cover;
   overflow: hidden;
-  padding-top: 100%;
+  padding-top: 30%;
+  top: 60px;
+  position: relative;
   box-sizing: border-box;
+  z-index: 1;
 }
 
 header {

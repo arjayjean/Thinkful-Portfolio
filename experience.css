@@ -172,6 +172,21 @@ a.github {
 a.social:hover {
   opacity: 1;
 }
+
+img.portfolio:hover {
+  transition: all 0.5s;
+  transform: scale(1.17);
+  width: 600px;
+  height: 350px;
+  outline-style: auto;
+  outline-color: color: rgb(199, 234, 70);
+}
+
+blockquote {
+
+
+}
+
 .clearfix {
   clear: both;
 }
