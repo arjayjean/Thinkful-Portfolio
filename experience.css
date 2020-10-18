@@ -182,9 +182,9 @@ img.portfolio:hover {
   outline-color: color: rgb(199, 234, 70);
 }
 
-blockquote {
-
-
+.github-port {
+  color: black;
+  font-size: 25px;
 }
 
 .clearfix {
