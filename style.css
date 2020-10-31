@@ -255,4 +255,7 @@ legend {
     display: flex;
     flex-wrap: wrap;
   }
+  .nav li {
+    font-size: 10px;
+  }
 }
